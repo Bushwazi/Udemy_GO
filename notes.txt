@@ -1,0 +1,3 @@
+godoc.org | Third Party
+
+effective go > Names
